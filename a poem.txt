@@ -1,5 +1,4 @@
 The rainbow
-code 
-code 
-code
-one more code
+red 
+purple
+yellow
